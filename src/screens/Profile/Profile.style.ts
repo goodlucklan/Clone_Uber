@@ -15,6 +15,11 @@ export const styles = StyleSheet.create({
     textAlign: 'center',
   },
   colorStyle: {
-    fontSize: 24
-  }
+    fontSize: 24,
+  },
+  textStyle2: {
+    fontSize: 32,
+    padding: 16,
+    textAlign: 'center',
+  },
 });
