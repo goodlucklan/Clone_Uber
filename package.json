@@ -16,7 +16,7 @@
     "react": "18.2.0",
     "react-hook-form": "^7.42.1",
     "react-native": "0.71.0",
-    "react-native-calendars": "^1.1293.0"
+    "react-native-calendars": "^1.198.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
