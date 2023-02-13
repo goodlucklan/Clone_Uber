@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import {Alert, View, Modal, Text, Pressable, StyleSheet} from 'react-native';
 import {Agenda, Calendar} from 'react-native-calendars';
-// import {NavigationContainer} from '@react-navigation/native';
 
 function App(): JSX.Element {
   const [modalVisible, setModalVisible] = useState(false);
