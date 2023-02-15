@@ -20,7 +20,7 @@ const createScreenOptions = ({route}: any) => {
     ),
   };
 };
-const Navigator = () => {
+const TabNavigator = () => {
   return (
     <Tab.Navigator screenOptions={createScreenOptions}>
       <Tab.Screen name="Home" component={Home} />
@@ -30,4 +30,4 @@ const Navigator = () => {
     </Tab.Navigator>
   );
 };
-export default Navigator;
+export default TabNavigator;
