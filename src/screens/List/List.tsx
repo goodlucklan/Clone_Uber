@@ -1,7 +1,10 @@
-import React from 'react'
+import React from 'react';
+import {View, Text} from 'react-native';
 
 export const List = () => {
   return (
-    <div>List</div>
-  )
-}
+    <View>
+      <Text>Aca</Text>
+    </View>
+  );
+};
